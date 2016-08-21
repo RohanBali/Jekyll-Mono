@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-I am researcher and software developer living in Toronto. I am interested in understanding speech and speech disorders from an engineering perspective. I am also interested in bringing data analysis techniques and softwares to the basic sceinces of speech articulation. Under my projects, you can find my attempts in helping speech scientists better understand data they work with. More recently, I am getting increasingly interested in more application oriented speech processing science like ASR and NLP.
+I am researcher and software developer living in Toronto. I am interested in understanding speech and speech disorders from an engineering perspective. I am also interested in bringing data analysis techniques and softwares to the basic science of speech articulation. Under my projects, you can find my attempts in helping speech scientists better understand data they work with. More recently, I am getting increasingly interested in more application oriented speech processing science like ASR and NLP.
 
 ## Education
 
@@ -18,7 +18,7 @@ I am researcher and software developer living in Toronto. I am interested in und
 
 ## Projects
 
-`EGUANA` <nowiki>|</nowiki> `Visual acuity software` <nowiki>|</nowiki> `GPA and CSTI analysis software` <nowiki>|</nowiki> `Auditory acuity software` <nowiki>|</nowiki> `Food Spec` <nowiki>|</nowiki> `LCBO Amazon Alexa app` <nowiki>|</nowiki> `The Art of Artless Living` <nowiki>|</nowiki> `Theremin controlled computer mouse`
+`EGUANA` <nowiki>|</nowiki>	`Visual acuity software` <nowiki>|</nowiki>	`GPA and CSTI analysis software` <nowiki>|</nowiki> `Auditory acuity software` <nowiki>|</nowiki> `Food Spec` <nowiki>|</nowiki> `LCBO Amazon Alexa app` <nowiki>|</nowiki> `The Art of Artless Living` <nowiki>|</nowiki> `Theremin controlled computer mouse`
 
 ## Publications
 
@@ -31,11 +31,11 @@ I am researcher and software developer living in Toronto. I am interested in und
 
 ## Skills
 
-* **Computer Languages** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Mathematics Concepts** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Engineerng Applications** - `Skill` / `Skill` / `Skill`    
-    
-## Achievements
+* **Computer Languages** - `MATLAB` / `R` / `C` / `C++` / `C#` / `Objective-C` / `Python` / `Java` / `HTML` / `CSS` / `PHP` / `Javascript` / `jQuery` / `Node.js` / `SQL`
+* **Mathematics Concepts** - `Audio Signal Processing` / `Baysian Statistics` / `Game Theory` / `Information Theory` / `Graph Theory` / `HMM` / `Vector Quantization` / `Neural Networks` / `Regression Analysis`
+* **Engineerng Applications** - `ASR` / `TTS` / `NLU` / `Articulatory Inversion` / `Speech Synthesis` / `Speech Animation` / `Speaker Recognition`
+
+<!-- ## Achievements
 
 
 * [**This is my first achievement**](#) 
@@ -52,9 +52,9 @@ I am researcher and software developer living in Toronto. I am interested in und
 
 * [**This is my third achievement**](#) 
 
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
+   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula -->
 
 
 ## Contact me
 
-[contact@rohanbali.com](mailto:contact@rohanbali.com)
+contact@rohanbali.com
