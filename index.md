@@ -3,22 +3,98 @@ layout: page
 title: Home
 ---
 
+<style>
+.tooltip_templates { display: none; }
+
+
+.toolTipUnderlineID {
+	text-decoration: none;
+    border-bottom: 1px solid #ffa268; 
+}
+.tooltipListClass li { 
+	margin: 10px 0;
+}
+
+</style>
+
 I am researcher and software developer living in Toronto. I am interested in understanding speech and speech disorders from an engineering perspective. I am also interested in bringing data analysis techniques and softwares to the basic science of speech articulation. Under my projects, you can find my attempts in helping speech scientists better understand data they work with. More recently, I am getting increasingly interested in more application oriented speech processing science like ASR and NLP.
 
 ## Education
 
-* Master of Applied Science (M.A.Sc.) in Computer Engineering <br> University of Toronto
-* Bachelor of Science (B.S.) in Electrical Engineering (minor Computer Science) <br> University of Illinois at Urbana-Champaign
+* [Master of Applied Science (M.A.Sc.) in Computer Engineering <br> University of Toronto](https://www.ece.utoronto.ca/graduates/degree-programs/masc/) <span style="display: inline-block; color:#ffa268" class="tooltip" data-tooltip-content="#tooltip_uoft_edu_content">+</span>
+
+<div class="tooltip_templates">
+    <span class="tooltipListClass" id="tooltip_uoft_edu_content">
+		Thesis : Mapping Acoustics to Kinematics in Speech <br>
+		GPA : 3.7/4
+    </span>
+</div>
+
+* [Bachelor of Science (B.S.) in Electrical Engineering (minor Computer Science) <br> University of Illinois at Urbana-Champaign](http://www.ece.illinois.edu/) <span style="display: inline-block; color:#ffa268" class="tooltip" data-tooltip-content="#tooltip_uofi_edu_content">+</span>
+
+<div class="tooltip_templates">
+    <span class="tooltipListClass" id="tooltip_uofi_edu_content">
+		GPA : 3.5/4
+    </span>
+</div>
+
 
 ## Experience
 
-* **University of Toronto** <br> Graduate Research Assistant <br>Sensory Communication Lab and Oral Dynamics Lab
-* **Kite & Canary** <br> CTO & Co-founder Toronto
-* **Pivotal Labs (formerly Xtreme Labs)** <br> Agile Engineer
+* **[University of Toronto](https://www.ece.utoronto.ca/graduates/degree-programs/masc/)** <br> Graduate Research Assistant <br>[Sensory Communication Lab](http://individual.utoronto.ca/willy/) and [Oral Dynamics Lab](http://www.slp.utoronto.ca/faculty-and-staff/faculty/pascal-van-lieshout-ph-d/oraldynamicslab/about-us/) <span style="display: inline-block; color:#ffa268" class="tooltip" data-tooltip-content="#tooltip_uoft_exp_content">+</span>
+
+<div class="tooltip_templates">
+    <span class="tooltipListClass" id="tooltip_uoft_exp_content">
+	    <ul>
+	    	<li>Developed a novel method to map speech acoustics to speech articulatory movement by using a Vector Quantization (VQ) machine learning model in conjunction with graph search algorithms</li>
+	    	<li>Collectedspeecharticulatorymovementandacousticsdatausingaelectromagneticarticulographymachine (EMA). My model performed upto 40 % better than existing solutions when analyzed on this data</li>
+			<li>Used this computational model to empirically analyze speech planning and production models such as the TADA model and the DIVA model</li>
+			<li>Created a machine learning model to achieve speech acoustic predictions from speech articulation data, and created a speech synthesizer to produce speech data from LPC coefficients</li>
+		</ul>
+	</span>
+</div>
+
+* **[Kite & Canary](http://kiteandcanary.com/home/)** <br> CTO & Co-founder Toronto <span style="display: inline-block; color:#ffa268" class="tooltip" data-tooltip-content="#tooltip_kandc_exp_content">+</span>
+
+
+<div class="tooltip_templates">
+    <span  class="tooltipListClass" id="tooltip_kandc_exp_content">
+	    <ul>
+	    	<li>Co-founded and led a healthcare software startup from infancy to producing 300k yearly revenue</li>
+	    	<li>Led technical team and grew the team from two part-time to three full-time developers</li>
+			<li>Planned project roadmap and supervised the development of iOS, WatchOS, Web and Server Side projects</li>
+			<li>Collaborated with hospitals and researchers in Toronto to produce technical innovations in health care
+by providing recording, hosting and analysis solutions for human kinematic and physiological data
+</li>
+		</ul>
+	</span>
+</div>
+
+* **[Pivotal Labs (formerly Xtreme Labs)](https://pivotal.io/labs)** <br> Agile Engineer <span style="display: inline-block; color:#ffa268" class="tooltip" data-tooltip-content="#tooltip_xtreme_exp_content">+</span>
+
+<div class="tooltip_templates">
+    <span class="tooltipListClass" id="tooltip_xtreme_exp_content">
+	    <ul>
+	    	<li>Consulted leading businesses and banks in Canada & USA on iOS strategy and mobile app design</li>
+	    	<li>Developed iOS applications and supervised a software development team of 4 people to produce software using Agile methodologies</li>
+			<li>Planned project roadmap and supervised the development of iOS, WatchOS, Web and Server Side projects</li>
+			<li>Responsible for emergency bug fixes for multiple projects on Web, iOS, Android and BlackBerry platforms</li>
+		</ul>
+	</span>
+</div>
 
 ## Projects
 
-`EGUANA` <nowiki>|</nowiki>	`Visual acuity software` <nowiki>|</nowiki>	`GPA and CSTI analysis software` <nowiki>|</nowiki> `Auditory acuity software` <nowiki>|</nowiki> `Food Spec` <nowiki>|</nowiki> `LCBO Amazon Alexa app` <nowiki>|</nowiki> `The Art of Artless Living` <nowiki>|</nowiki> `Theremin controlled computer mouse`
+<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_eguana_proj_content">`EGUANA`</span> <nowiki> | </nowiki>
+<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_visual_proj_content">`Visual acuity software`</span> <nowiki> | </nowiki>
+<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_visual_proj_content">`GPA and CSTI analysis software`</span> <nowiki> | </nowiki>
+<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_visual_proj_content">`Auditory acuity software`</span> <nowiki> | </nowiki>
+<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_visual_proj_content">`Food Spec`</span> <nowiki> | </nowiki>
+<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_visual_proj_content">`LCBO Amazon Alexa app`</span> <nowiki> | </nowiki>
+<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_visual_proj_content">`The Art of Artless Living`</span> <nowiki> | </nowiki>
+<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_visual_proj_content">`Theremin controlled computer mouse`</span> <nowiki> | </nowiki>
+
+
 
 ## Publications
 
@@ -58,3 +134,21 @@ I am researcher and software developer living in Toronto. I am interested in und
 ## Contact me
 
 contact@rohanbali.com
+
+
+<div class="tooltip_templates">
+    <span class="tooltipListClass" id="tooltip_eguana_proj_content">
+	    <ul>
+	    	<li>Consulted leading businesses and banks in Canada & USA on iOS strategy and mobile app design</li>
+		</ul>
+	</span>
+</div>
+
+
+<div class="tooltip_templates">
+    <span class="tooltipListClass" id="tooltip_visual_proj_content">
+	    <ul>
+			<li>Responsible for emergency bug fixes for multiple projects on Web, iOS, Android and BlackBerry platforms</li>
+		</ul>
+	</span>
+</div>
