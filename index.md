@@ -87,12 +87,12 @@ by providing recording, hosting and analysis solutions for human kinematic and p
 
 <span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_eguana_proj_content">`EGUANA`</span> <nowiki> | </nowiki>
 <span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_visual_proj_content">`Visual acuity software`</span> <nowiki> | </nowiki>
-<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_visual_proj_content">`GPA and CSTI analysis software`</span> <nowiki> | </nowiki>
-<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_visual_proj_content">`Auditory acuity software`</span> <nowiki> | </nowiki>
-<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_visual_proj_content">`Food Spec`</span> <nowiki> | </nowiki>
-<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_visual_proj_content">`LCBO Amazon Alexa app`</span> <nowiki> | </nowiki>
-<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_visual_proj_content">`The Art of Artless Living`</span> <nowiki> | </nowiki>
-<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_visual_proj_content">`Theremin controlled computer mouse`</span> <nowiki> | </nowiki>
+<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_gpa_proj_content">`GPA and CSTI analysis software`</span> <nowiki> | </nowiki>
+<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_auditory_proj_content">`Auditory acuity software`</span> <nowiki> | </nowiki>
+<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_foodSpec_proj_content">`Food Spec`</span> <nowiki> | </nowiki>
+<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_lcbo_proj_content">`LCBO Amazon Alexa app`</span> <nowiki> | </nowiki>
+<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_artofartless_proj_content">`The Art of Artless Living`</span> <nowiki> | </nowiki>
+<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_theremin_proj_content">`Theremin controlled computer mouse`</span> <nowiki> | </nowiki>
 
 
 
@@ -138,17 +138,55 @@ contact@rohanbali.com
 
 <div class="tooltip_templates">
     <span class="tooltipListClass" id="tooltip_eguana_proj_content">
-	    <ul>
-	    	<li>Consulted leading businesses and banks in Canada & USA on iOS strategy and mobile app design</li>
-		</ul>
+    	Oral Dynamics Lab at the University of Toronto (Present) <br><br>
+	    Software package for speech acoustics and kinematic analysis, used globally by Speech Language Pathologists
 	</span>
 </div>
 
 
 <div class="tooltip_templates">
     <span class="tooltipListClass" id="tooltip_visual_proj_content">
-	    <ul>
-			<li>Responsible for emergency bug fixes for multiple projects on Web, iOS, Android and BlackBerry platforms</li>
-		</ul>
+    	Dr. Roslyn Ward at the The University of Western Australia (2015) <br><br>
+    	Computer vision tracking and software package for psychological test of visual perception
 	</span>
 </div>
+
+<div class="tooltip_templates">
+    <span class="tooltipListClass" id="tooltip_gpa_proj_content">
+    	The Prompt Institute (2015)<br><br>
+    	Recorded speech therapist’s hand and participant’s speech articulator movements using AG501 machine, and analyzed data using Generalized procrustes analysis (GPA) and Cyclic spatiotemporal index (CSTI) analysis
+	</span>
+</div>
+
+<div class="tooltip_templates">
+    <span class="tooltipListClass" id="tooltip_auditory_proj_content">
+    	 Dr. Yana Yunusova at the University of Toronto (2015)<br><br>
+    	 Software package for psychological test for auditory perception
+	</span>
+</div>
+
+<div class="tooltip_templates">
+    <span class="tooltipListClass" id="tooltip_foodSpec_proj_content">
+    	A nutrition visualization iOS app and website
+	</span>
+</div>
+
+<div class="tooltip_templates">
+    <span class="tooltipListClass" id="tooltip_lcbo_proj_content">
+    	Speech recognition retail software used to search through the LCBO product list
+	</span>
+</div>
+
+<div class="tooltip_templates">
+    <span class="tooltipListClass" id="tooltip_artofartless_proj_content">
+    	Blog
+	</span>
+</div>
+
+<div class="tooltip_templates">
+    <span class="tooltipListClass" id="tooltip_theremin_proj_content">
+    	University of Illinois Urbana-Champaign<br><br>
+    	Senior Project
+	</span>
+</div>
+
