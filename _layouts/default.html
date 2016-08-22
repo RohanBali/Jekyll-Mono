@@ -20,12 +20,19 @@
     <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
     <script type="text/javascript" src="tooltipster/dist/js/tooltipster.bundle.min.js"></script>
 
+    <style>
+        .tooltipster-sidetip.tooltipster-punk.tooltipster-punk-customized .tooltipster-box {
+          border-bottom-color: #ffa268; 
+          border-bottom-width: 5px;
+        }
+    </style>
+
     <script>
         $(document).ready(function() {
             $('.tooltip').tooltipster({
                  side:'right',
                  animation: 'fade',
-                 theme: 'tooltipster-punk',
+                 theme: ['tooltipster-punk', 'tooltipster-punk-customized'],
                  trigger: 'click',
                  maxWidth: $( window ).width()/1.5   
 
