@@ -92,7 +92,7 @@ by providing recording, hosting and analysis solutions for human kinematic and p
 <span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_foodSpec_proj_content">`Food Spec`</span> <nowiki> | </nowiki>
 <span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_lcbo_proj_content">`LCBO Amazon Alexa app`</span> <nowiki> | </nowiki>
 <span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_artofartless_proj_content">`The Art of Artless Living`</span> <nowiki> | </nowiki>
-<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_theremin_proj_content">`Theremin controlled computer mouse`</span> <nowiki> | </nowiki>
+<span style="display: inline-block" class="tooltip toolTipUnderlineID" data-tooltip-content="#tooltip_theremin_proj_content">`Theremin controlled computer mouse`</span>
 
 
 
