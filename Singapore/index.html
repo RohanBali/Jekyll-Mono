@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<title>Singapore GenConnect</title>
+	<script src="bower_components/jquery/dist/jquery.min.js"></script>
+	<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" href="main.css">
+
+
+	<script>
+
+		$(document).ready(function(){
+		    showAvailabilityOption();
+		    showLanguageOption();
+		    showGenderOption();
+		});
+
+		function showAvailabilityOption() {
+			var $select = $(".availabilty");
+		    $select.append($('<option></option>').val('Any').html('Any'));
+		    $select.append($('<option></option>').val('Monday').html('Monday'));
+		    $select.append($('<option></option>').val('Tuesday').html('Tuesday'));
+		    $select.append($('<option></option>').val('Wednesday').html('Wednesday'));
+		    $select.append($('<option></option>').val('Thursday').html('Thursday'));
+		    $select.append($('<option></option>').val('Friday').html('Friday'));
+		    $select.append($('<option></option>').val('Saturday').html('Saturday'));
+		    $select.append($('<option></option>').val('Sunday').html('Sunday'));
+		}	
+
+		function showLanguageOption() {
+			var $select = $(".language");
+		    $select.append($('<option></option>').val('Any').html('Any'));
+		    $select.append($('<option></option>').val('English').html('English'));
+		    $select.append($('<option></option>').val('Malay').html('Malay'));
+		    $select.append($('<option></option>').val('Tamil').html('Tamil'));
+		    $select.append($('<option></option>').val('Mandrin').html('Mandrin'));
+		}
+
+		function showGenderOption() {
+			var $select = $(".gender");
+		    $select.append($('<option></option>').val('Any').html('Any'));
+		    $select.append($('<option></option>').val('Male').html('Male'));
+		    $select.append($('<option></option>').val('Female').html('Female'));
+		}
+
+
+	</script> 
+
+
+</head>
+
+<body>
+
+	<div class="container">
+		
+		<div class="row">
+			<div class="col-md-5 parentContainer">
+
+				<div class="parentView">
+					<div class="row">
+						<h3 style="text-align:center;">Jane Doe</h3>
+					</div>
+					<div class="row">
+						<img src="image/parent.jpg"  class="img-thumbnail displayImage">
+					</div>
+					
+					<div class="row">
+						<p style="text-align:center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet velit ex, ut gravida dui laoreet non. Vivamus mollis nunc nec massa posuere, sed semper turpis mollis</p>
+					</div>
+
+
+
+					<div class="childrenView">
+
+							<div class="row">
+								<div class="col-md-6">
+									<img src="image/parent.jpg"  class="img-thumbnail displayImage">
+								</div>
+								<div class="col-md-6">
+									<div class="row"><h4>Lil John</h4></div>
+									<div class="row"><p>hendrerit ligula. Vestibulum sollicitudin, purus vitae pellentesque pretium, dui purus porta urna</p></div>
+								</div>
+							</div>
+
+					</div>
+				</div>
+			</div>
+
+
+			<div class="col-md-7 elderSearchContainer">
+				<div class="searchView">
+					<form action="." id="searchForm">
+						<select class="availabilty"><option selected disabled>Choose Availability</option></select>
+						<select class="gender"><option selected disabled>Choose Gender</option></select>
+						<select class="language"><option selected disabled>Choose Language</option></select>
+					    <input type="submit" value="Search">
+					</form>
+				</div>
+
+				<div class="elderView">
+					<div class="row">
+						<div class="col-md-4">
+								<div class="row"><img src="image/parent.jpg"  class="img-thumbnail displayImage"></div>
+								<div class="row" style="text-align:center;"><h4>And this Guy</h4></div>
+						</div>
+						<div class="col-md-4">
+								<div class="row"><img src="image/parent.jpg"  class="img-thumbnail displayImage"></div>
+								<div class="row" style="text-align:center;"><h4>And this Guy</h4></div>
+						</div>
+						<div class="col-md-4">
+								<div class="row"><img src="image/parent.jpg"  class="img-thumbnail displayImage"></div>
+								<div class="row" style="text-align:center;"><h4>And this Guy</h4></div>
+						</div>
+						<div class="col-md-4">
+								<div class="row"><img src="image/parent.jpg"  class="img-thumbnail displayImage"></div>
+								<div class="row" style="text-align:center;"><h4>And this Guy</h4></div>
+						</div>
+						<div class="col-md-4">
+								<div class="row"><img src="image/parent.jpg"  class="img-thumbnail displayImage"></div>
+								<div class="row" style="text-align:center;"><h4>And this Guy</h4></div>
+						</div>
+						<div class="col-md-4">
+								<div class="row"><img src="image/parent.jpg"  class="img-thumbnail displayImage"></div>
+								<div class="row" style="text-align:center;"><h4>And this Guy</h4></div>
+						</div>
+						<div class="col-md-4">
+								<div class="row"><img src="image/parent.jpg"  class="img-thumbnail displayImage"></div>
+								<div class="row" style="text-align:center;"><h4>And this Guy</h4></div>
+						</div>
+						<div class="col-md-4">
+								<div class="row"><img src="image/parent.jpg"  class="img-thumbnail displayImage"></div>
+								<div class="row" style="text-align:center;"><h4>And this Guy</h4></div>
+						</div>
+						<div class="col-md-4">
+								<div class="row"><img src="image/parent.jpg"  class="img-thumbnail displayImage"></div>
+								<div class="row" style="text-align:center;"><h4>And this Guy</h4></div>
+						</div>
+						<div class="col-md-4">
+								<div class="row"><img src="image/parent.jpg"  class="img-thumbnail displayImage"></div>
+								<div class="row" style="text-align:center;"><h4>And this Guy</h4></div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+
+	</div>
+
+	<script src="bower_components/bootstrap /dist/js/bootstrap.min.js"></script>
+</body>
