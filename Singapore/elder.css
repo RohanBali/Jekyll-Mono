@@ -3,7 +3,8 @@
     border-width: 2px;
     border-color:#ADBCA5;
     border-radius: 10px;
-    margin: 3px;
+    margin: 15px;
+    padding: 25px;
 }
 
 .elderDetailContainer {
@@ -11,7 +12,8 @@
     border-width: 2px;
     border-color:#CB769E;
     border-radius: 20px;
-    margin: 10px;
+    margin: 15px;
+    padding: 35px;
 }
 
 .displayImage {
@@ -21,3 +23,32 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.dayViewDisabled {
+    border-style: solid;
+	border-width: 2px;
+	border-color: #E8B9AB;
+	text-align: center;
+	font-weight: bold;
+	color:#d3d3d3;
+    border-radius: 5px;
+}
+
+.dayViewEnabled {
+    border-style: solid;
+	border-width: 2px;
+	border-color: #E8B9AB;
+	text-align: center;
+	font-weight: bold;
+	color:black;
+    border-radius: 5px;
+}
+
+.detailView {
+	border-style: solid;
+	border-width: 2px;
+	border-color: #E8B9AB;
+    border-radius: 5px;
+    padding: 10px;
+}
+
