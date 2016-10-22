@@ -15,6 +15,22 @@
 		    showAvailabilityOption();
 		    showLanguageOption();
 		    showGenderOption();
+
+			$('.elderValueView')
+	  			.css('cursor', 'pointer')
+	  			.click(
+	    		function(){
+					window.location.href = "elder.html";
+	    		}).hover(
+				    function(){
+				      $(this).css('background', '#ADBCA5');
+				    },
+				    function(){
+				      $(this).css('background', '');
+				    }
+				  );
+
+
 		});
 
 		function showAvailabilityOption() {
@@ -44,6 +60,8 @@
 		    $select.append($('<option></option>').val('Male').html('Male'));
 		    $select.append($('<option></option>').val('Female').html('Female'));
 		}
+
+
 
 
 	</script> 
@@ -171,7 +189,7 @@
 									<div class="row" style="text-align:left;"><h6 style="padding-left:20px">Rating: 4.5/5</h6></div>
 							</div>
 						</div>
-						
+
 					</div>
 				</div>
 

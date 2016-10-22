@@ -1,0 +1,23 @@
+.elderContainer {
+    border-style: solid;
+    border-width: 2px;
+    border-color:#ADBCA5;
+    border-radius: 10px;
+    margin: 3px;
+}
+
+.elderDetailContainer {
+	border-style: solid;
+    border-width: 2px;
+    border-color:#CB769E;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.displayImage {
+	margin: 10px;
+	width: 50%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
