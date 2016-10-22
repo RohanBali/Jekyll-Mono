@@ -1,3 +1,4 @@
+
 .parentContainer {
 }
 
@@ -23,12 +24,22 @@
 
 
 .elderView {
-	margin: 5;
+	margin: 15px;
 	border-style: solid;
     border-width: 2px;
     border-color:#CB769E;
     border-radius: 20px;
 }
+
+.elderValueView {
+    margin: 25px;
+    padding: 25px;
+    border-style: solid;
+    border-width: 2px;
+    border-color:#8C5F66;
+    border-radius: 10px;
+}
+
 
 .elderSearchContainer{
 	padding: 5px;
