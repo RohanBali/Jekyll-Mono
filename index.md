@@ -97,7 +97,7 @@ by providing recording, hosting and analysis solutions for human kinematic and p
 
 
 ## Publications
-*Rampersaud, D., Huynh, A., Namasivayam, A., Bali, R., Ward, R., Yan, T., Law, V., Hayden, D., & Van Lieshout, P. (2016, November). Can we objectively assess the delivery of tactile inputs during speech therapy? Poster presented at Toronto Rehabilitation Institute Research Day 2016, Toronto, ON.
+* Rampersaud, D., Huynh, A., Namasivayam, A., Bali, R., Ward, R., Yan, T., Law, V., Hayden, D., & Van Lieshout, P. (2016, November). Can we objectively assess the delivery of tactile inputs during speech therapy? Poster presented at Toronto Rehabilitation Institute Research Day 2016, Toronto, ON
 * Pearsell, S., David, V., Bali, R., Namasivayam, A.K., Helms-Park, R., & Van Lieshout, P.H.H.M. (2015). Dual task influence on speech motor stability. Presentation presented at the McGill Canadian Conference for Linguistic Undergraduates: McGill University, Montreal, QC (March 13-14)
 * Law, V., Huynh, A., Namasivayam, A.K., Yan, T., Bali, R., Hayden, D., & Van Lieshout, P.H.H.M. (2015, November) Oro-Facial Tactile Cues Improve Phoneme Recognition. Poster to be presented at the Toronto Rehabilitation Research Conference, Toronto, Ontario
 * Namasivayam, A.K., Bali, R., Yan, T., Hayden, D., & Van Lieshout, P.H.H.M. (2015). Accuracy & Consistency of Oro-Facial Prompting for Speech. Presented at the 2015 ASHA Convention in Denver, Colorado
