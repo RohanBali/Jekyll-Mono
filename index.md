@@ -104,6 +104,7 @@ by providing recording, hosting and analysis solutions for human kinematic and p
 * Bali, R., Namasivayam, A.K., Hayden, D., Van Lieshout, P.H.H.M., & Yan, T. (2015, October). Assessing Consistency of Oro-Facial Prompting. Poster presented at International Association of OroFacial Myology Convention, Lake Buena Vista, Florida
 * Slis, A., Bali,R., Namasivayam, A.K., Chaldi, D, Van Lieshout, P.H.H.M. (2015) Articulatory Speech Errors and Word Structure. Poster presentation at the 18th ICPhS in Glasgow
 * Pearsell, S., Chadi, D., Bali, R., Namasivayam, A.K., Helms-Park, R., & Van Lieshout, P.H.H.M. (2014). Dual task influence on speech motor stability. Presentation presented at the 2nd Undergraduate Linguistic Conference: University of Toronto, Toronto, ON (Nov 21)
+
 ## Skills
 
 * **Computer Languages** - `MATLAB` / `R` / `C` / `C++` / `C#` / `Objective-C` / `Python` / `Java` / `HTML` / `CSS` / `PHP` / `Javascript` / `jQuery` / `Node.js` / `SQL`
