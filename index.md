@@ -9,15 +9,15 @@ title: Home
 
 .toolTipUnderlineID {
 	text-decoration: none;
-    border-bottom: 1px solid #ffa268; 
+    border-bottom: 1px solid #ffa268;
 }
-.tooltipListClass li { 
+.tooltipListClass li {
 	margin: 10px 0;
 }
 
 </style>
 
-I am researcher and software developer living in Toronto. I am interested in understanding speech and speech disorders from an engineering perspective. I am also interested in bringing data analysis techniques and softwares to the basic science of speech articulation. Under my projects, you can find my attempts in helping speech scientists better understand data they work with. More recently, I am getting increasingly interested in more application oriented speech processing science like ASR and NLP.
+Skilled Research Engineer with over 7 years of hands-on experience in implementing research and creating systems which support research.
 
 ## Education
 
@@ -41,20 +41,44 @@ I am researcher and software developer living in Toronto. I am interested in und
 
 ## Experience
 
-* **[University of Toronto](https://www.ece.utoronto.ca/graduates/degree-programs/masc/)** <br> Graduate Research Assistant <br>[Sensory Communication Lab](http://individual.utoronto.ca/willy/) and [Oral Dynamics Lab](http://www.slp.utoronto.ca/faculty-and-staff/faculty/pascal-van-lieshout-ph-d/oraldynamicslab/about-us/) <span style="display: inline-block; color:#ffa268" class="tooltip" data-tooltip-content="#tooltip_uoft_exp_content">+</span>
+* **[Facebook Reality Labs](https://tech.fb.com/facebook-reality-labs-inside-our-new-pittsburgh-digs/)**	(April 2017 - Present)<br> Pittsburgh, PA<br> Research Engineer <span style="display: inline-block; color:#ffa268" class="tooltip" data-tooltip-content="#tooltip_fb_exp_content">+</span>
 
 <div class="tooltip_templates">
-    <span class="tooltipListClass" id="tooltip_uoft_exp_content">
+    <span class="tooltipListClass" id="tooltip_fb_exp_content">
+		<p style="display: inline-block; color:white"> I currently work as part of a team of researchers and engineers focused on building virtual telepresence. I have worked on many different parts of this research pipeline, from writing data capture software, to large-scale data processing, to implementing computer vision and machine learning research.</p>
 	    <ul>
-	    	<li>Developed a novel method to map speech acoustics to speech articulatory movement by using a Vector Quantization (VQ) machine learning model in conjunction with graph search algorithms</li>
-	    	<li>Collectedspeecharticulatorymovementandacousticsdatausingaelectromagneticarticulographymachine (EMA). My model performed upto 40 % better than existing solutions when analyzed on this data</li>
-			<li>Used this computational model to empirically analyze speech planning and production models such as the TADA model and the DIVA model</li>
-			<li>Created a machine learning model to achieve speech acoustic predictions from speech articulation data, and created a speech synthesizer to produce speech data from LPC coefficients</li>
+	    	<li>Increased keypoint detection quality by 10% by making changes to the training pipeline for keypoint detection ML model (PyTorch)</li>
+	    	<li>Made architectural updates to keypoint detection ML model (PyTorch)</li>
+			<li>Designed and implemented a failure detection and retraining pipeline for our state-of-the-art keypoint and segmentation detectors, leading to a 20% improvement in predicted keypoint quality (PyTorch)</li>
+			<li>Developed a speech to facial animation prediction model using Bi-LSTM (PyTorch)</li>
+			<li>Developed Computer Vision-based metrics to evaluate quality of keypoint annotations (Python)</li>
+			<li>Designed and implemented pipeline for early evaluation of data capture quality (Python)</li>
+			<li>Designed and implemented post-processing steps which made capture data consumable for research. Formalized and automated data preprocessing. (Python, C++, Bash)</li>
+			<li>Created monitoring and alerting solutions for fast detection of issues in data capture pipeline (Python, SQL, PHP)</li>
+			<li>Created a data management system to support PII data captured during user studies (ReactJS, PHP)</li>
+			<li>Created a data management system to support large scale data annotation (Python, PHP)</li>
+			<li>Developed and upgraded 2D and 3D annotation tool for annotation of over one million data points (Javascript - ReactJS, PHP, SQL, Python, C++).</li>
+			<li>Collaborated in the design of a user study capture process that has captured over a thousand hours of data.</li>
+			<li>Led the development of multiple custom software solutions to help Research Assistants interact with research tools and software (C++, Python)</li>
 		</ul>
 	</span>
 </div>
 
-* **[Kite & Canary](http://kiteandcanary.com/home/)** <br> CTO & Co-founder Toronto <span style="display: inline-block; color:#ffa268" class="tooltip" data-tooltip-content="#tooltip_kandc_exp_content">+</span>
+* **Independent Contractor** 	(Jan 2016 - Mar 2017)<br> Toronto, ON<br> Research Engineer <span style="display: inline-block; color:#ffa268" class="tooltip" data-tooltip-content="#tooltip_uoft_exp_content">+</span>
+
+<div class="tooltip_templates">
+    <span class="tooltipListClass" id="tooltip_uoft_exp_content">
+		<p style="display: inline-block; color:white"> Worked with researchers, clinics, and corporations to develop software and hardware solutions to problems at the intersection of physical movement and machine learning.</p>
+	    <ul>
+	    	<li>PROMPT Institute - Functional data analysis (FDA) software tool - Developed FDA tool to evaluate consistency of articulation data over multiple repetitions (Matlab).</li>
+	    	<li>The Speech And Stuttering Institute - Gentle Onset Software tool - Gentle Onset therapy is used to treat people who stutter. This Neural Network-based detector for gentle onset in speech enabled patients to practice Gentle Onset therapy at home.</li>
+			<li>PROMPT Institute - Eguana Python - Developed software for analysis of Electromagnetic Articulograph data.</li>
+			<li>Music Mind Inc - Clarinet Monitor - Developed hardware and software for a real time visualization of tongue position while playing a clarinet.</li>
+		</ul>
+	</span>
+</div>
+
+* **[Kite & Canary](http://kiteandcanary.com/home/)**	(Aug 2013 - Jan 2016)<br> CTO & Co-founder Toronto <span style="display: inline-block; color:#ffa268" class="tooltip" data-tooltip-content="#tooltip_kandc_exp_content">+</span>
 
 
 <div class="tooltip_templates">
@@ -70,7 +94,7 @@ by providing recording, hosting and analysis solutions for human kinematic and p
 	</span>
 </div>
 
-* **[Pivotal Labs (formerly Xtreme Labs)](https://pivotal.io/labs)** <br> Agile Engineer <span style="display: inline-block; color:#ffa268" class="tooltip" data-tooltip-content="#tooltip_xtreme_exp_content">+</span>
+* **[Pivotal Labs (formerly Xtreme Labs)](https://pivotal.io/labs)**	(April 2012 - Aug 2013)<br> Agile Engineer <span style="display: inline-block; color:#ffa268" class="tooltip" data-tooltip-content="#tooltip_xtreme_exp_content">+</span>
 
 <div class="tooltip_templates">
     <span class="tooltipListClass" id="tooltip_xtreme_exp_content">
@@ -107,26 +131,26 @@ by providing recording, hosting and analysis solutions for human kinematic and p
 
 ## Skills
 
-* **Computer Languages** - `MATLAB` / `R` / `C` / `C++` / `C#` / `Objective-C` / `Python` / `Java` / `HTML` / `CSS` / `PHP` / `Javascript` / `jQuery` / `Node.js` / `SQL`
-* **Mathematics Concepts** - `Audio Signal Processing` / `Baysian Statistics` / `Game Theory` / `Information Theory` / `Graph Theory` / `HMM` / `Vector Quantization` / `Neural Networks` / `Regression Analysis`
+* **Computer Languages** - `Python` / `PyTorch` / `MATLAB` / `R` / `C` / `C++` / `C#` / `Objective-C` / `Java` / `HTML` / `CSS` / `PHP` / `Javascript` / `jQuery` / `Node.js` / `SQL`
+* **Mathematics Concepts** - `Machine Learning` / `Computer Vision` / `Audio Signal Processing` / `Baysian Statistics` / `Game Theory` / `Information Theory` / `Graph Theory` / `HMM` / `Vector Quantization` / `Regression Analysis`
 * **Engineerng Applications** - `ASR` / `TTS` / `NLU` / `Articulatory Inversion` / `Speech Synthesis` / `Speech Animation` / `Speaker Recognition`
 
 <!-- ## Achievements
 
 
-* [**This is my first achievement**](#) 
-   
+* [**This is my first achievement**](#)
+
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
 
-* [**This is my second achievement**](#) 
+* [**This is my second achievement**](#)
 
     Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
 
-* [**This is my third achievement**](#) 
+* [**This is my third achievement**](#)
 
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula -->
 
@@ -189,4 +213,3 @@ contact@rohanbali.com
     	Senior Project
 	</span>
 </div>
-
